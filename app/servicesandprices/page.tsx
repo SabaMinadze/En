@@ -6,18 +6,18 @@ function page() {
   return (
     <>
     <div className={styles.box}>
-    <Card name="კონსულტაცია დიაგნოსტიკაა" price="50 -200 ₾"/>
-    <Card name="პროფესიული ჰიგიენა" price="140 - 300 ₾"/>
-    <Card name="გათეთრებაა" price="375 - 490 ₾"/>
+    <Card name="Treatment of scientists and children" price="50 -200 ₾"/>
+    <Card name="Pediatric and adult surgery" price="140 - 300 ₾"/>
+    <Card name="Periodontology" price="375 - 490 ₾"/>
     </div>
     <div className={styles.box}>
-    <Card name="კბილის დაბჟენა" price="150 ₾"/>
-    <Card name="არხების მკურნალობა" price="85 ₾ -დან"/>
-    <Card name="გათეთრება" price="150 - 250 ₾"/>
+    <Card name="Gnathology" price="150 ₾"/>
+    <Card name="Orthodontics" price="85 ₾ -დან"/>
+    <Card name="orthopedics" price="150 - 250 ₾"/>
     </div>
     <div className={styles.box}>
-    <Card name="ღრძილების კონსერვატიული მკურნალობა" price="მკურნალობის ფასი ინდივიდუალურია"/>
-    <Card name="FGG თავისუფალი ღრძილოვანი ტრანსპლანტაციის ოპერაცია" price="1450 ₾"/>
+    <Card name="diagnostics" price="მკურნალობის ფასი ინდივიდუალურია"/>
+    <Card name="Aesthetic dentistry" price="1450 ₾"/>
     <Card name="ნაფლეთოვანი ოპერაცია (მინიმალურ-ინვაზიური ტექნიკა)" price="500 ₾"/>
     </div>
     <div className={styles.box}>
