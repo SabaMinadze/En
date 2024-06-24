@@ -6,7 +6,7 @@ function page() {
   return (
     <>
     <div className={styles.box}>
-    <Card name="Treatment of scientists and children" price="50 -200 ₾"/>
+    <Card name="Therapy for adults and children" price="50 -200 ₾"/>
     <Card name="Pediatric and adult surgery" price="140 - 300 ₾"/>
     <Card name="Periodontology" price="375 - 490 ₾"/>
     </div>
