@@ -10,7 +10,7 @@ function Footer() {
       <h2 className={styles.txt3}>Instagram: minadzesaba16</h2>
       <br/><br/>
       <h1>Language</h1>
-      <Link href="http://localhost:3000/"><button className={styles.btn}>English</button></Link>
+      <Link href="https://algani-denti.vercel.app/"><button className={styles.btn}>ქართული</button></Link>
 
 
       <h2 className={styles.txt2}>algandent.ge Algani all rights reserved. © 2023 - 2024</h2>
