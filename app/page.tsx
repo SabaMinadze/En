@@ -12,9 +12,7 @@ function page() {
     <div className={styles.box}>
     <Subnav/>
     <Burgernav/>
-    <Video/>
     <br/><br/><br/>
-    <Link href="http://localhost:3000/"><button>Georgian version of the website</button></Link>
     </div>
     </>
   )
